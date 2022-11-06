@@ -1,0 +1,4 @@
+Datetime, nVoters, design, citcuit, nConstraints, t_compile, t_proofGen, provingKeySize   
+20221103090640, 30, original, PublicKeyGen, 1291, 3402, 11532, 807556
+20221103090640, 30, original, encryptedVoteGen, 18995, 42513, 77017, 12198244
+20221103090640, 30, original, tallying, 16680, 37133, 74327, 11188320
