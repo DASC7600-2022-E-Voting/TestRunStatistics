@@ -44,3 +44,6 @@ Datetime, nVoters, nVotingOptions, design, citcuit, nConstraints, t_compile, t_p
 20221105170911, 6, 4, original, PublicKeyGen, 1291, 5524, 17243, 807556
 20221105170911, 6, 4, original, encryptedVoteGen, 7352, 28594, 33411, 4185440
 20221105170911, 6, 4, original, tallying, 24410, 99872, 57261, 13294456
+20221111200448, 4, 7, original, PublicKeyGen, 1291, 6457, 14204, 807556
+20221111200448, 4, 7, original, encryptedVoteGen, 6251, 27378, 31437, 3586044
+20221111200448, 4, 7, original, tallying, 84800, 484868, 180625, 46240784
